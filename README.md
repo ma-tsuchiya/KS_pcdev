@@ -20,6 +20,8 @@
 ||1|グラフィックボード|SAPPHIRE|Nitro+ Radeon RX 580<br>SA-RX580-8GD5N+001|大きな箱|
 ||1|電源ユニット|SilverStone|750W ATX Gold<br>SST-ET-750HG|大きな箱|
 ||1|ケース|JONSBO|U4シリーズ|ダンボール箱|
+
+
 左: メモリ, 中央手前: SSD, 右: CPU, 奥は上からマザーボード, グラフィックボード, 電源ユニット.
 ![](pic/boxall.JPG)
 
